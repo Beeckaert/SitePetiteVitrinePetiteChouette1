@@ -1,0 +1,45 @@
+/* Dev By Systeme Rubis */
+
+/* Main Nav */
+
+[data-NavHeadMenu], [data-UlHeadMenu],
+[data-LiLink], [data-DivLink]{
+
+    width: calc(5 * 150px);
+    height: 40px;
+    margin-top: 0px;
+    margin-left: 5px;
+    float: left;
+
+}
+
+[data-UlHeadMenu],[data-LiLink], 
+[data-DivLink]{
+
+    margin-left: 0px;
+
+}
+
+[data-LiLink],
+[data-DivLink]{
+
+    width: 150px;
+
+}
+
+[data-TextLink], [data-TextLinkContent]{
+    
+    display: flex;
+    font-size:20px;
+    text-shadow: 3px 3px 3px black;
+    margin-top: 5px;
+    justify-content: center;
+
+
+}
+
+[data-TextLinkContent]{
+
+    text-decoration: underline;
+
+}
