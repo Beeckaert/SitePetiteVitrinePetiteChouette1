@@ -1,0 +1,31 @@
+/* Dev By SystemeRubis */
+
+[data-ContentPreviewDisplaybox]{
+
+    width: 40%;
+    height: 100%;
+    position: absolute;
+    top: 40px;
+    right: 5%;
+
+}
+
+/* data-TitlePreviewDisplay */
+
+[data-TitlePreviewDisplay]{
+
+    display: flex;
+    font-size: 22px;
+    text-shadow: 3px 3px 3px black;
+    margin-top: 40px;
+    justify-content: center;
+
+}
+
+[data-TextPreviewDisplay]{
+
+    font-size: 9px;
+    margin: 9px;
+    margin-top: 30px;
+
+}

@@ -1,0 +1,29 @@
+/* Dev By SystemeRubis */
+
+/* Preview Big sep */
+
+[data-DecoSep1]{
+
+    width: 65%;
+    height: 80px;
+    margin-top: 30px;
+
+}
+
+/* Preview Smail sep */
+
+[data-DecoSep2]{
+
+    width: 30%;
+    height: 40px;
+    margin-top: 10px;
+
+}
+
+[data-DecoSep3]{
+
+    width: 30%;
+    height: 40px;
+    margin-top: 10px;
+
+}

@@ -1,0 +1,21 @@
+/* Dev By SystemeRubis */
+
+/* Fullshreen Element */
+
+header, [data-PreviewsContent],
+[data-PreviewContentBG],[data-MainPreviewContent],
+[data-MainPreviewDisplay]{
+
+    width: 100%;
+    height: 100%;
+
+}
+
+/* Full Height 50% width */
+
+[data-Cut50_50width]{
+
+    width: 50%;
+    height: 100%;
+
+}
