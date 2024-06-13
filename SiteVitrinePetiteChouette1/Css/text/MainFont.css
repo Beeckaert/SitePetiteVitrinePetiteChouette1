@@ -1,0 +1,14 @@
+/* Dev By SystemeRubis */
+
+/* Subtitle */
+
+[data-MainSubtitle]{
+
+    display: flex;
+    font-size: 22px;
+    text-shadow: 3px 3px 3px black;
+    margin-top: 40px;
+    justify-content: center;
+
+}
+
